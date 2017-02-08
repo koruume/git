@@ -4,6 +4,8 @@
 	<title>LOL</title>
 </head>
 <body>
-	some text on the site ^_^
+	
+
+	HAHAHAHAHAHA
 </body>
 </html>
